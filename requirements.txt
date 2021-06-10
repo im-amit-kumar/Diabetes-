@@ -5,3 +5,4 @@ gunicorn==19.9.0
 scipy >= 0.13.3
 cython
 scikit_learn==0.21.3
+Werkzeug == 1.0.0
