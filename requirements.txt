@@ -1,7 +1,8 @@
+python==3.6
 Flask==1.1.1
 pandas
 numpy>=1.8.2
 gunicorn==19.9.0
 scipy >= 0.13.3
 cython
-scikit-learn==0.19.1
+scikit-learn==0.20.1
