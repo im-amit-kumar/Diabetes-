@@ -5,3 +5,4 @@ gunicorn==19.9.0
 scipy >= 0.13.3
 scikit_learn==0.21.3
 gevent == 1.4.0
+greenlet==0.4.14
